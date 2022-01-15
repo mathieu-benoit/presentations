@@ -1,1 +1,1 @@
-[The public presentations I have been delivering](https://alwaysupalwayson.com/presentations/).
+[The public presentations I delivered](https://alwaysupalwayson.com/presentations/).
